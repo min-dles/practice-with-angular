@@ -1,6 +1,6 @@
 # FirstAngularApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.3. Updates to the application were made alongside Angular documentation & tutorial.
 
 ## Development server
 
